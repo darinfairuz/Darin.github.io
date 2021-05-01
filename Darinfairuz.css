@@ -1,0 +1,32 @@
+ table,
+      th,td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+th,td {
+  padding: 15px;
+  font-size: 120%;
+} 
+p {
+	font-size: 110%;
+}
+th {
+	background-color:bisque;
+	color:darkkhaki;
+}
+td {
+	background-color:darkcyan;
+	color:whitesmoke;
+}
+.photo {
+	width: 220px;
+}
+h1 {
+	text-align:center;
+	color:maroon;
+}
+body {
+	background-color: linen;
+	font-family: arial;
+	}
