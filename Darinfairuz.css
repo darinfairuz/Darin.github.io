@@ -4,29 +4,32 @@
         border: 1px solid black;
         border-collapse: collapse;
       }
+
 th,td {
   padding: 15px;
   font-size: 120%;
-} 
+}
+
 p {
 	font-size: 110%;
 }
 th {
-	background-color:bisque;
+	background-color: #ffe4c4;
 	color:darkkhaki;
 }
 td {
 	background-color:darkcyan;
-	color:whitesmoke;
+	color: whitesmoke;
 }
 .photo {
 	width: 220px;
 }
+
 h1 {
 	text-align:center;
-	color:maroon;
+	color: maroon;
 }
 body {
-	background-color: linen;
+	background-color: #faf0e6;
 	font-family: arial;
 	}
